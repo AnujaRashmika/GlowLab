@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225579425168",
+    "project_id": "glowlab-7742c",
+    "storage_bucket": "glowlab-7742c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225579425168:android:5ca0bb6de8282a611fa715",
+        "android_client_info": {
+          "package_name": "lk.kotlin.glowlab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeFkNnGe4pMDByd7Q17Hl0MYWFeg4U-nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
