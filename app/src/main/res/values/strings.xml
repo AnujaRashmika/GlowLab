@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GlowLab</string>
+    <string name="skincare_made_n_simple_n_beautiful_nand_effective">Skincare made\n simple, \n Beautiful, \nAnd Effective</string>
+    <string name="let_s_get_started">Let\'s Get Started</string>
 </resources>
